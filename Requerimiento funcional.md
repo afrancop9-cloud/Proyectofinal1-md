@@ -8,5 +8,6 @@ ID</td><td>Requerimiento</td><td>Descripción</td></tr><tr><td>1.</td><td>Regist
 
 
 
-<mesa><tr><td>ID</td><td>Requerimiento</td><td>Tipo</td><td>Criterio</td></tr><tr><td>1.</td><td>Tiempos de respuesta</td><td>Rendimiento</td><td>2 seguidos en UI.</td></tr><tr><td>2.</td><td>Compatibilidad móvil.</td><td>Usabilidad</td><td>Diseño responsivo</td></tr><tr><td>3.</td><td>Secuencia de datos.</td><td>Seguridad</td><td>Hash y cifrado de datos</td></tr><tr><td></td><td></td><td></td><td></td></tr></mesa>
+
+
 
